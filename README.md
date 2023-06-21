@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://sagardeswal123.github.io](https://sagardeswal123.github.io)
+- 👨‍💻 All of my projects: [https://sagardeswal123.github.io](https://sagardeswal123.github.io)
 
-- 📫 How to reach me **sagardeswal798@gmail.com**
+- 📫 How to reach me: **sagardeswal798@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1e4atkuE609mDht9BdIPXbHDHNb9EtD82/view?usp=sharing](https://drive.google.com/file/d/1e4atkuE609mDht9BdIPXbHDHNb9EtD82/view?usp=sharing)
 
